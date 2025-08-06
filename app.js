@@ -132,3 +132,8 @@ console.log(userProfile)
 //
 // Your code here:
 
+function englishTerms (noun = "cat", adjective = "orange") {
+return `The ${noun} is ${adjective}` 
+};
+
+console.log(englishTerms());
