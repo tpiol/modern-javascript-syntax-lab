@@ -53,3 +53,7 @@ const car = {
 
 // Your code here:
 
+const { make, model } = car
+
+console.log(make);
+console.log(model);
